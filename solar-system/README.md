@@ -16,3 +16,4 @@ This project demonstrates **front-end development skills** including layout, sty
 ## 🌐 Live Demo
 
 Check out the project live here:
+|🌌 Solar System Live|
