@@ -13,4 +13,6 @@ This project demonstrates **front-end development skills** including layout, sty
 - 📱 Responsive design for desktop and mobile screens  
 
 ---
+## 🌐 Live Demo
 
+Check out the project live here:
