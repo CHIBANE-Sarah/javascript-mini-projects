@@ -7,7 +7,7 @@ These projects showcase front-end development skills including DOM manipulation,
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| 🌌 Solar System | Animated solar system using HTML, CSS, JS | [Live Demo](https://github.com/CHIBANE-Sarah/javascript-mini-projects/tree/main/solar-system) |
+| 🌌 Solar System | Animated solar system using HTML, CSS, JS | [Live Demo](https://chibane-sarah.github.io/javascript-mini-projects/solar-system/index.html) |
 | 🧮 Calculator | Basic calculator app with responsive design | [Live Demo](#) |
 | 🐍 Snake Game | Classic snake game with score tracking | [Live Demo](#) |
 | 💱 Currency Converter | Simple app to convert currencies | [Live Demo](#) |
