@@ -14,7 +14,4 @@ A simple, responsive calculator built with **HTML**, **CSS**, and **JavaScript**
 - `index.js` – Calculator logic
 
 ## 🚀 Live Demo
-[View on GitHub Pages](#) (Link after you deploy)
-
-## 🛠️ How to Run
-Just open `index.html` in your browser.
+[View on GitHub Pages](#)
