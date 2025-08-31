@@ -15,4 +15,5 @@ A simple, responsive calculator built with **HTML**, **CSS**, and **JavaScript**
 
 ## 🚀 Live Demo
 Check out the project live here:
-[Calculator Project](#)
+
+[Calculator Project](https://chibane-sarah.github.io/javascript-mini-projects/Calculator/index.html)
