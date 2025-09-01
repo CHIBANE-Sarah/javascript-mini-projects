@@ -18,4 +18,4 @@ Control the snake, eat the food to grow, and avoid crashing into the walls or yo
 
 Play the game here:  
 
-[🐍 Snake Game Live](https://your-username.github.io/javascript-mini-projects/Snake-Game/index.html)  
+[🐍 Snake Game Live](https://your-username.github.io/javascript-mini-projects/Snake%20Game/index.html)  
